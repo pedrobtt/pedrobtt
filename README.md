@@ -8,16 +8,20 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrobtt/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pedrobos21@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
 </p>
 
 ---
 
 ## Sobre
 
-Estudante de **Engenharia de Computação na UFRN**, com foco em Desenvolvimento Web e interesse forte em Inteligência Artificial aplicada.
+Estudante de **Engenharia de Computação na UFRN**, com foco em desenvolvimento web e interesse forte em Inteligência Artificial aplicada.
 
 - 🎓 **Tutor Acadêmico** na Escola de Ciências e Tecnologia (ECT/UFRN) — aprovado em **1º lugar** no processo seletivo. Ensino **Lógica de Programação**, Cálculo, Álgebra Linear e Geometria Analítica.
-- 🏥 Desenvolvi, em **projeto de extensão universitária**, a interface de um sistema de **ficha digital** para uma Unidade Básica de Saúde de Natal.
+- 🏥 Desenvolvi o **UniFicha**, em **projeto de extensão universitária**: a interface de um sistema de ficha digital para uma Unidade Básica de Saúde de Natal.
 - 💼 Passagem pela **Invenergy Services**, atuando com integridade de dados e automação de rotinas operacionais em uma multinacional de energia.
 - 🤖 Uso **Claude Code, ChatGPT e Gemini** no fluxo diário de desenvolvimento.
 - 📊 Cursando a **Certificação Profissional em Análise de Dados do Google**.
@@ -58,22 +62,26 @@ Estudante de **Engenharia de Computação na UFRN**, com foco em Desenvolvimento
 
 ## Projetos
 
-### 🎥 [Detecção de agressões em vídeo](https://github.com/pedrobtt/neuai_machine-learning)
+### 🎥 [NeuAI — Detecção de agressões em vídeo](https://github.com/pedrobtt/neuai_machine-learning)
 
 Pipeline **CNN-LSTM** que classifica vídeos de CFTV entre *normal* e *agressão*. Transfer Learning com **MobileNetV2** para extração espacial de características e uma camada **LSTM** para a análise temporal dos frames. Inclui tratamento de desbalanceamento com *class weights*, Early Stopping contra overfitting e exportação em **TensorFlow Lite** para rodar em dispositivos de borda.
 
 `Python` · `TensorFlow` · `Keras` · `OpenCV` · `Edge AI`
 
-### 🚂 [Simulador de tráfego ferroviário concorrente](https://github.com/pedrobtt/sistemas-operacionais_trens)
+### ⚡ [Benchmark de paralelismo em C++](https://github.com/pedrobtt/sistemas-operacionais_paralelismo)
 
-Simulação de trens em **malhas ferroviárias compartilhadas**, com **semáforos** controlando o acesso aos trechos críticos para evitar colisões entre composições concorrentes. O mesmo problema resolvido de três formas — sequencial, multiprocesso e multithread — para comparar os modelos de concorrência.
+Multiplicação de matrizes resolvida de três formas — **sequencial**, **paralela com threads** (pthreads) e **paralela com processos** (`fork`) — com um analisador que roda 10 execuções por configuração, em matrizes de 100x100 até 2270x2270, e mede onde o paralelismo compensa o próprio overhead.
 
-`C++` · `Semáforos` · `Threads` · `Exclusão Mútua`
+`C++` · `pthreads` · `fork` · `Benchmark`
 
-### 📌 [Aplicação de ponteiros em programação avançada](https://github.com/pedrobtt/programacao-avancada_ponteiros)
+### 📌 [Ponteiros Aplicados na Programação Avançada](https://github.com/pedrobtt/programacao-avancada_ponteiros)
 
-30 problemas de manipulação de ponteiros e memória, resolvidos e versionados de forma incremental. Fundamentos de alocação, passagem por referência e estruturas de dados.
+30 problemas de manipulação de ponteiros e memória em C — incluindo questões do **ENADE** — resolvidos e comentados. Inclui um `qsort` genérico próprio, matriz 3D dinâmica com `int***` e controle de matriz de LEDs 8x8 por manipulação de bits.
 
 `C` · `Ponteiros` · `Gerenciamento de Memória`
 
 ---
+
+<p align="center">
+  <em>Aberto a oportunidades em desenvolvimento web.</em>
+</p>
