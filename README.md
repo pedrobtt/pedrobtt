@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Engenharia de Computação · UFRN — Natal/RN</strong><br>
-  Construo interfaces web com React e Next.js, e resolvo problemas com Deep Learning quando o problema pede.
+  Desenvolvimento web com React e Next.js, e aplicações de Machine Learning.
 </p>
 
 <p align="center">
