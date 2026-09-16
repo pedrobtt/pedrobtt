@@ -68,7 +68,7 @@ Pipeline **CNN-LSTM** que classifica vídeos de CFTV entre *normal* e *agressão
 
 `Python` · `TensorFlow` · `Keras` · `OpenCV` · `Edge AI`
 
-### ⚡ [Benchmark de paralelismo em C++](https://github.com/pedrobtt/sistemas-operacionais_paralelismo)
+### ⚡ [Benchmark de Paralelismo em C++](https://github.com/pedrobtt/sistemas-operacionais_paralelismo)
 
 Multiplicação de matrizes resolvida de três formas — **sequencial**, **paralela com threads** (pthreads) e **paralela com processos** (`fork`) — com um analisador que roda 10 execuções por configuração, em matrizes de 100x100 até 2270x2270, e mede onde o paralelismo compensa o próprio overhead.
 
