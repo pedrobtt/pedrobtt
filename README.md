@@ -14,7 +14,7 @@
 
 ## Sobre
 
-Estudante de **Engenharia de Computação na UFRN**, com foco em desenvolvimento web e interesse forte em Inteligência Artificial aplicada.
+Estudante de **Engenharia de Computação na UFRN**, com foco em Desenvolvimento Web e interesse forte em Inteligência Artificial aplicada.
 
 - 🎓 **Tutor Acadêmico** na Escola de Ciências e Tecnologia (ECT/UFRN) — aprovado em **1º lugar** no processo seletivo. Ensino **Lógica de Programação**, Cálculo, Álgebra Linear e Geometria Analítica.
 - 🏥 Desenvolvi, em **projeto de extensão universitária**, a interface de um sistema de **ficha digital** para uma Unidade Básica de Saúde de Natal.
@@ -58,7 +58,7 @@ Estudante de **Engenharia de Computação na UFRN**, com foco em desenvolvimento
 
 ## Projetos
 
-### 🎥 [NeuAI — Detecção de agressões em vídeo](https://github.com/pedrobtt/neuai_machine-learning)
+### 🎥 [Detecção de agressões em vídeo](https://github.com/pedrobtt/neuai_machine-learning)
 
 Pipeline **CNN-LSTM** que classifica vídeos de CFTV entre *normal* e *agressão*. Transfer Learning com **MobileNetV2** para extração espacial de características e uma camada **LSTM** para a análise temporal dos frames. Inclui tratamento de desbalanceamento com *class weights*, Early Stopping contra overfitting e exportação em **TensorFlow Lite** para rodar em dispositivos de borda.
 
@@ -70,7 +70,7 @@ Simulação de trens em **malhas ferroviárias compartilhadas**, com **semáforo
 
 `C++` · `Semáforos` · `Threads` · `Exclusão Mútua`
 
-### 📌 [Exercícios de ponteiros em C](https://github.com/pedrobtt/programacao-avancada_ponteiros)
+### 📌 [Aplicação de ponteiros em programação avançada](https://github.com/pedrobtt/programacao-avancada_ponteiros)
 
 30 problemas de manipulação de ponteiros e memória, resolvidos e versionados de forma incremental. Fundamentos de alocação, passagem por referência e estruturas de dados.
 
