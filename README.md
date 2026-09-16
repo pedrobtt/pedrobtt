@@ -77,7 +77,3 @@ Simulação de trens em **malhas ferroviárias compartilhadas**, com **semáforo
 `C` · `Ponteiros` · `Gerenciamento de Memória`
 
 ---
-
-<p align="center">
-  <em>Aberto a oportunidades em desenvolvimento web.</em>
-</p>
